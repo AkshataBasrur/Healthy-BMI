@@ -10,5 +10,5 @@ This wide-wide accessible SMS service is implemented using Twilio for SMS servic
 The code is written in PHP and deployed on Heroku server.
 
 <b>How to use it</b><br>
-One just has to send a SMS as HealthyBMI <Height> <Weight> <br>
+One just has to send a SMS as HealthyBMI < Height > < Weight > <br>
 One will get a response as calculated BMI and suggestions about diet and exercise.
